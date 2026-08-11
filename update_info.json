@@ -2,7 +2,9 @@
   "version": "1.0.0",
   "release_date": "2026-08-11",
   "description": "首版",
-  "changelog": [ok],
+  "changelog": [
+  "新增：系统在线更新功能",
+  "新增：更新包生成工具"],
   "download_url": "https://raw.githubusercontent.com/ylctoo/my-nav-updates/main/update_v1.0.0_to_v1.0.1.zip",
   "md5": "76993c4185dcee5e293b7fb2e68b01f4"
 }
