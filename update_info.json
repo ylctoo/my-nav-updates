@@ -8,8 +8,8 @@
     "新增：更新包生成工具",
     "修复：view15模板样式问题"
   ],
-  "download_url": "https://your-server.com/updates/update_v1.0.1_to_v1.0.2.zip",
-  "md5": "a1b2c3d4e5f6789012345678abcdef01",
+  "download_url": "https://yd.wd12.pw/updates/update_v1.0.1_to_v1.0.2.zip",
+  "md5": "0d4f21fbba06212fd68cf0b375ac3b3e",
   "file_count": 5,
   "db_changes": false
 }
