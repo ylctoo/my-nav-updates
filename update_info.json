@@ -1,15 +1,8 @@
 {
-  "version": "1.0.1",
-  "min_version": "1.0.0",
-  "release_date": "2026-08-15",
-  "description": "新增系统更新功能",
-  "changelog": [
-    "新增：系统在线更新功能",
-    "新增：更新包生成工具",
-    "修复：view15模板样式问题"
-  ],
-  "download_url": "https://yd.wd12.pw/updates/update_v1.0.0_to_v1.0.1.zip",
-  "md5": "a1b2c3d4e5f6789012345678abcdef01",
-  "file_count": 5,
-  "db_changes": false
+  "version": "1.0.0",
+  "release_date": "2026-08-11",
+  "description": "首版",
+  "changelog": [],
+  "download_url": "",
+  "md5": ""
 }
